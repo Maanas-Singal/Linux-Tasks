@@ -29,4 +29,4 @@ fi
 echo "Wine installation and configuration completed successfully!"
 
 ### Before running the script, make sure to give execute permissions to the script:
-### chmod +x install_wine.sh
+### chmod +x Install_Wine_RHEL.sh
